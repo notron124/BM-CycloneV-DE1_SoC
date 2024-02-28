@@ -8,6 +8,7 @@ use IEEE.numeric_std.all;
 
 entity soc_system is
 	port (
+		buttons_0_external_connection_export  : in    std_logic_vector(3 downto 0)  := (others => '0'); --  buttons_0_external_connection.export
 		clk_clk                               : in    std_logic                     := '0';             --                            clk.clk
 		hex_0_external_connection_export      : out   std_logic_vector(6 downto 0);                     --      hex_0_external_connection.export
 		hex_1_external_connection_export      : out   std_logic_vector(6 downto 0);                     --      hex_1_external_connection.export
@@ -850,7 +851,7 @@ begin
 			reset_n  => rst_controller_reset_out_reset_ports_inv, --               reset.reset_n
 			address  => mm_interconnect_1_buttons_0_s1_address,   --                  s1.address
 			readdata => mm_interconnect_1_buttons_0_s1_readdata,  --                    .readdata
-			in_port  => open                                      -- external_connection.export
+			in_port  => buttons_0_external_connection_export      -- external_connection.export
 		);
 
 	hex_0 : component soc_system_hex_0

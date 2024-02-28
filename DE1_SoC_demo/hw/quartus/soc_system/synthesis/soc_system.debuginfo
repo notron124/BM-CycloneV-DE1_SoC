@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <EnsembleReport name="soc_system" kind="system" version="15.1" fabric="QSYS">
  <!-- Format version 15.1 185 (Future versions may contain additional information.) -->
- <!-- 2024.02.27.18:28:51 -->
+ <!-- 2024.02.28.11:46:10 -->
  <!-- A collection of modules and connections -->
  <parameter name="clockCrossingAdapter">
   <type>com.altera.sopcmodel.ensemble.EClockAdapter</type>
@@ -53,7 +53,7 @@
  </parameter>
  <parameter name="generationId">
   <type>int</type>
-  <value>1709036861</value>
+  <value>1709099101</value>
   <derived>false</derived>
   <enabled>true</enabled>
   <visible>true</visible>
@@ -101,7 +101,7 @@
  </parameter>
  <parameter name="projectName">
   <type>java.lang.String</type>
-  <value></value>
+  <value>DE1_SOC_demo.qpf</value>
   <derived>false</derived>
   <enabled>true</enabled>
   <visible>false</visible>
@@ -55913,7 +55913,7 @@ the requested settings for a module instance. -->
   </assignment>
   <assignment>
    <name>embeddedsw.CMacro.TIMESTAMP</name>
-   <value>1709036861</value>
+   <value>1709099101</value>
   </assignment>
   <assignment>
    <name>embeddedsw.dts.compatible</name>
@@ -55933,7 +55933,7 @@ the requested settings for a module instance. -->
   </assignment>
   <assignment>
    <name>embeddedsw.dts.params.timestamp</name>
-   <value>1709036861</value>
+   <value>1709099101</value>
   </assignment>
   <assignment>
    <name>embeddedsw.dts.vendor</name>
@@ -55949,7 +55949,7 @@ the requested settings for a module instance. -->
   </parameter>
   <parameter name="timestamp">
    <type>int</type>
-   <value>1709036861</value>
+   <value>1709099101</value>
    <derived>true</derived>
    <enabled>false</enabled>
    <visible>false</visible>
@@ -66796,5 +66796,5 @@ parameters are a RESULT of the module parameters. -->
   <version>15.1</version>
  </plugin>
  <reportVersion>15.1 185</reportVersion>
- <uniqueIdentifier>D8BBC14B6AF40000018DEA891FBF</uniqueIdentifier>
+ <uniqueIdentifier>D8BBC14B6AF40000018DEE3ED709</uniqueIdentifier>
 </EnsembleReport>
