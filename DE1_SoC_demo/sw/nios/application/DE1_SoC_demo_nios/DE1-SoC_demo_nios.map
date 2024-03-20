@@ -1,0 +1,1066 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o (alt_load)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o (alt_main)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+                              obj/default/nios.o (usleep)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_init)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_ioctl)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (alt_alarm_start)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o) (alt_busy_sleep)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o) (close)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o) (_do_ctors)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o) (_do_dtors)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o) (alt_errno)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (alt_ic_isr_register)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o) (alt_io_redirect)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o) (open)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (_alt_tick_rate)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o) (alt_find_dev)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o) (alt_icache_flush)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o) (atexit)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+                              c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o) (errno)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o) (memcpy)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o) (strlen)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                              c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                              c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+                              C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o) (__udivsi3)
+C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+errno               0x4               c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000004000000 0x0000000000000020
+sdram_controller_0 0x0000000004000020 0x0000000003ffffe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/nios.o
+LOAD c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libstdc++.a
+LOAD c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libm.a
+LOAD c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a
+START GROUP
+LOAD c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a
+LOAD c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a
+LOAD C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a
+LOAD c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libm.a
+END GROUP
+LOAD c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a
+                0x0000000004000000                __alt_mem_sdram_controller_0 = 0x4000000
+
+.entry          0x0000000004000000       0x20
+ *(.entry)
+ .entry         0x0000000004000000       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+                0x0000000004000000                __reset
+
+.exceptions     0x0000000004000020      0x19c
+                0x0000000004000020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x0000000004000020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000004000020        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000004000020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000004000020        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000004000020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000004000020       0x54 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000004000074       0x10 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000004000084        0x4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000004000088        0x4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000400008c        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000400008c        0x8 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000004000094        0x4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x0000000004000098        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x0000000004000098        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x0000000004000098       0x54 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000040000ec       0xd0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000040000ec                alt_irq_handler
+                0x00000000040001bc                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x0000000004000020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x00000000040001bc     0x2600
+                0x00000000040001bc                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000040001bc       0x4c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+                0x00000000040001bc                _start
+ .text          0x0000000004000208      0x108 obj/default/nios.o
+                0x0000000004000208                rotate_leds
+                0x00000000040002e4                main
+ .text          0x0000000004000310       0xe4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+                0x0000000004000374                alt_load
+ .text          0x00000000040003f4       0x78 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+                0x00000000040003f4                alt_main
+ .text          0x000000000400046c       0x30 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+                0x000000000400046c                usleep
+ .text          0x000000000400049c       0xb4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x00000000040004d4                alt_irq_init
+                0x0000000004000508                alt_sys_init
+ .text          0x0000000004000550      0x164 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x0000000004000550                altera_avalon_jtag_uart_read_fd
+                0x00000000040005b0                altera_avalon_jtag_uart_write_fd
+                0x0000000004000610                altera_avalon_jtag_uart_close_fd
+                0x0000000004000660                altera_avalon_jtag_uart_ioctl_fd
+ .text          0x00000000040006b4      0x3d8 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                0x00000000040006b4                altera_avalon_jtag_uart_init
+                0x0000000004000a24                altera_avalon_jtag_uart_close
+ .text          0x0000000004000a8c       0xec C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                0x0000000004000a8c                altera_avalon_jtag_uart_ioctl
+ .text          0x0000000004000b78      0x20c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x0000000004000b78                altera_avalon_jtag_uart_read
+ .text          0x0000000004000d84      0x218 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000000004000d84                altera_avalon_jtag_uart_write
+ .text          0x0000000004000f9c      0x140 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                0x0000000004000f9c                alt_alarm_start
+ .text          0x00000000040010dc      0x158 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x00000000040010dc                alt_busy_sleep
+ .text          0x0000000004001234      0x120 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+                0x0000000004001284                close
+ .text          0x0000000004001354       0x44 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000004001354                alt_dcache_flush_all
+ .text          0x0000000004001398       0x2c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x00000000040013c4       0xf4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000000004001414                alt_dev_llist_insert
+ .text          0x00000000040014b8       0x5c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                0x00000000040014b8                _do_ctors
+ .text          0x0000000004001514       0x5c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                0x0000000004001514                _do_dtors
+ .text          0x0000000004001570        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x0000000004001570       0x30 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000004001570                alt_icache_flush_all
+ .text          0x00000000040015a0      0x1e0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+                0x00000000040015a0                alt_ic_isr_register
+                0x00000000040015f0                alt_ic_irq_enable
+                0x0000000004001690                alt_ic_irq_disable
+                0x0000000004001734                alt_ic_irq_enabled
+ .text          0x0000000004001780       0xf0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x0000000004001780                alt_iic_isr_register
+ .text          0x0000000004001870      0x138 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x0000000004001930                alt_io_redirect
+ .text          0x00000000040019a8        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x00000000040019a8        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x00000000040019a8        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x00000000040019a8      0x274 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+                0x0000000004001ac4                open
+ .text          0x0000000004001c1c       0x60 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x0000000004001c1c                alt_release_fd
+ .text          0x0000000004001c7c      0x19c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000000004001c7c                alt_alarm_stop
+                0x0000000004001d14                alt_tick
+ .text          0x0000000004001e18       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x0000000004001e18                altera_nios2_qsys_irq_init
+ .text          0x0000000004001e38        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000000004001e38       0x90 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x0000000004001e38                alt_find_dev
+ .text          0x0000000004001ec8      0x114 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x0000000004001ec8                alt_find_file
+ .text          0x0000000004001fdc       0xb4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x0000000004001fdc                alt_get_fd
+ .text          0x0000000004002090       0x8c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                0x0000000004002090                alt_icache_flush
+ .text          0x000000000400211c        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .text.atexit   0x000000000400211c       0x14 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+                0x000000000400211c                atexit
+ .text          0x0000000004002130        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .text.exit     0x0000000004002130       0x38 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+                0x0000000004002130                exit
+ .text          0x0000000004002168        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .text          0x0000000004002168        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .text          0x0000000004002168        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000004002168       0x7c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                0x0000000004002168                memcmp
+ .text          0x00000000040021e4        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x00000000040021e4      0x138 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                0x00000000040021e4                memcpy
+ .text          0x000000000400231c        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .text.strlen   0x000000000400231c       0x98 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+                0x000000000400231c                strlen
+ .text          0x00000000040023b4        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000040023b4      0x114 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                0x00000000040023b4                __register_exitproc
+ .text          0x00000000040024c8        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000040024c8      0x194 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                0x00000000040024c8                __call_exitprocs
+ .text          0x000000000400265c      0x12c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+                0x00000000040026c8                __divsi3
+                0x000000000400271c                __modsi3
+                0x0000000004002778                __udivsi3
+                0x0000000004002780                __umodsi3
+ .text          0x0000000004002788       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000000004002788                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x00000000040027bc                PROVIDE (__etext, ABSOLUTE (.))
+                0x00000000040027bc                PROVIDE (_etext, ABSOLUTE (.))
+                0x00000000040027bc                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x00000000040027bc                . = ALIGN (0x4)
+                0x00000000040027bc                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x00000000040027bc                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x00000000040027bc                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x00000000040027bc                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x00000000040027bc                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x00000000040027bc                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                0x00000000040027bc                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+                0x00000000040027bc                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x00000000040027bc                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x00000000040027bc                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x00000000040027bc                . = ALIGN (0x4)
+
+.rodata         0x00000000040027bc       0x38
+                0x00000000040027bc                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x00000000040027bc                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00000000040027bc       0x14 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .rodata        0x00000000040027d0       0x14 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x00000000040027e4        0xc C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .rodata.str1.4
+                0x00000000040027f0        0x4 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ *(.rodata1)
+                0x00000000040027f4                . = ALIGN (0x4)
+                0x00000000040027f4                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x00000000040027bc                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x00000000040027f4     0x1658 load address 0x0000000004003e4c
+                0x00000000040027f4                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00000000040027f4                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00000000040027f4        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .data          0x00000000040027f4        0x0 obj/default/nios.o
+ .data          0x00000000040027f4        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x00000000040027f4        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x00000000040027f4        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .data          0x00000000040027f4     0x1060 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x0000000004003854        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000004003854      0x1a8 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000000004003854                alt_dev_null
+                0x000000000400387c                alt_fd_list
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x00000000040039fc        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .data          0x00000000040039fc        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .data          0x00000000040039fc        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .data          0x00000000040039fc        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000040039fc      0x424 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .data          0x0000000004003e20        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .data          0x0000000004003e20        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .data          0x0000000004003e20        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .data          0x0000000004003e20        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .data          0x0000000004003e20        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .data          0x0000000004003e20        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000004003e20        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .data          0x0000000004003e20        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+                0x000000000400be20                _gp = ABSOLUTE ((. + 0x8000))
+                0x000000000400be20                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000004003e20       0x14 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000000004003e20                alt_fs_list
+                0x0000000004003e28                alt_dev_list
+                0x0000000004003e30                alt_max_fd
+ .sdata         0x0000000004003e34        0x4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000000004003e34                alt_errno
+ .sdata         0x0000000004003e38        0x4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000004003e38                alt_priority_mask
+ .sdata         0x0000000004003e3c        0x8 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000000004003e3c                alt_alarm_list
+ .sdata._global_impure_ptr
+                0x0000000004003e44        0x4 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+                0x0000000004003e44                _global_impure_ptr
+ .sdata._impure_ptr
+                0x0000000004003e48        0x4 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+                0x0000000004003e48                _impure_ptr
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000004003e4c                . = ALIGN (0x4)
+                0x0000000004003e4c                _edata = ABSOLUTE (.)
+                0x0000000004003e4c                PROVIDE (edata, ABSOLUTE (.))
+                0x0000000004003e4c                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x0000000004003e4c                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x00000000040054a4      0x11c
+                0x00000000040054a4                __bss_start = ABSOLUTE (.)
+                0x00000000040054a4                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x00000000040054a4                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x00000000040054a4        0xc C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+                0x00000000040054a4                alt_argc
+                0x00000000040054a8                alt_argv
+                0x00000000040054ac                alt_envp
+ .sbss          0x00000000040054b0        0x4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x00000000040054b0                alt_irq_active
+ .sbss          0x00000000040054b4        0x8 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+                0x00000000040054b4                _alt_tick_rate
+                0x00000000040054b8                _alt_nticks
+ .sbss          0x00000000040054bc        0x4 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                0x00000000040054bc                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x00000000040054c0                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x00000000040054c0                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .bss           0x00000000040054c0        0x0 obj/default/nios.o
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000040054c0        0x0 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .bss           0x00000000040054c0        0x0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x00000000040054c0      0x100 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000040054c0                alt_irq
+                0x00000000040055c0                . = ALIGN (0x4)
+                0x00000000040055c0                __bss_end = ABSOLUTE (.)
+
+.sdram_controller_0
+                0x00000000040055c0        0x0
+                0x00000000040055c0                PROVIDE (_alt_partition_sdram_controller_0_start, ABSOLUTE (.))
+ *(.sdram_controller_0 .sdram_controller_0. sdram_controller_0.*)
+                0x00000000040055c0                . = ALIGN (0x4)
+                0x00000000040055c0                PROVIDE (_alt_partition_sdram_controller_0_end, ABSOLUTE (.))
+                0x00000000040055c0                _end = ABSOLUTE (.)
+                0x00000000040055c0                end = ABSOLUTE (.)
+                0x00000000040055c0                __alt_stack_base = ABSOLUTE (.)
+                0x00000000040055c0                PROVIDE (_alt_partition_sdram_controller_0_load_addr, LOADADDR (.sdram_controller_0))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x23
+ *(.comment)
+ .comment       0x0000000000000000       0x23 obj/default/nios.o
+                                         0x24 (size before relaxing)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x24 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .comment       0x0000000000000000       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x5f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x20 obj/default/nios.o
+ .debug_aranges
+                0x0000000000000048       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000068       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000088       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_aranges
+                0x00000000000000a8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_aranges
+                0x0000000000000108       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_aranges
+                0x0000000000000128       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x0000000000000148       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x0000000000000168       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_aranges
+                0x0000000000000188       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x00000000000001a8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x00000000000001c8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x00000000000001e8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x0000000000000208       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x0000000000000228       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x0000000000000248       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x0000000000000268       0x18 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x0000000000000280       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x00000000000002e0       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x0000000000000300       0x30 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x0000000000000330       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x0000000000000350       0x18 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x0000000000000368       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x0000000000000388       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000000000003a8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x00000000000003c8       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x00000000000003e8       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x0000000000000420       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x0000000000000440       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x0000000000000460       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x0000000000000480       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_aranges
+                0x00000000000004a0       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x00000000000004c0       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000000000004e0       0x18 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000004f8       0x18 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x0000000000000510       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000530       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000550       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000570       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000590       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000000000005b0       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x00000000000005d0       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x7719
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x95 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000095      0x116 obj/default/nios.o
+ .debug_info    0x00000000000001ab      0x13e C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x00000000000002e9      0x12a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000000000000413       0xa9 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_info    0x00000000000004bc      0x4bc C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000000978      0x527 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x0000000000000e9f      0x3a1 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_info    0x0000000000001240      0x279 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_info    0x00000000000014b9      0x342 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x00000000000017fb      0x339 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0000000000001b34      0x2c5 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_info    0x0000000000001df9       0xd0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x0000000000001ec9      0x31a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00000000000021e3       0x9e C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000002281      0x495 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x0000000000002716      0x1a2 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00000000000028b8       0x83 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x000000000000293b       0x83 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x00000000000029be       0x9f C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000002a5d       0x8b C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000000000002ae8      0x349 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000002e31      0x1e8 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x0000000000003019      0x49e C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00000000000034b7       0x9e C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000003555      0x180 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x00000000000036d5       0x88 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x000000000000375d      0x3b4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x0000000000003b11      0x2b0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x0000000000003dc1      0x292 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x0000000000004053       0x8b C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x00000000000040de       0xa4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000004182      0x2e2 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x0000000000004464      0x2df C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x0000000000004743      0x309 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x0000000000004a4c       0xd5 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_info    0x0000000000004b21      0x10a c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_info    0x0000000000004c2b      0x8ef c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_info    0x000000000000551a      0x89f c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000005db9       0x83 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_info    0x0000000000005e3c      0x113 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_info    0x0000000000005f4f      0x133 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000006082       0xdb c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_info    0x000000000000615d      0x93f c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000006a9c      0x964 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000007400      0x234 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000007634       0xe5 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x2a52
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012       0x7f obj/default/nios.o
+ .debug_abbrev  0x0000000000000091       0x9f C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000000130       0xba C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x00000000000001ea       0x60 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_abbrev  0x000000000000024a      0x187 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000003d1      0x127 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00000000000004f8      0x197 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_abbrev  0x000000000000068f      0x111 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_abbrev  0x00000000000007a0      0x1ac C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x000000000000094c      0x1a8 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000000000000af4      0x162 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_abbrev  0x0000000000000c56       0x7e C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x0000000000000cd4      0x11f C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x0000000000000df3       0x5a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000000e4d       0xd9 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x0000000000000f26      0x114 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x000000000000103a       0x79 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00000000000010b3       0x79 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x000000000000112c       0x5a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000001186       0x42 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00000000000011c8      0x163 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x000000000000132b      0x169 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x0000000000001494      0x114 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x00000000000015a8       0x12 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x00000000000015ba      0x122 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00000000000016dc       0x40 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x000000000000171c      0x148 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x0000000000001864       0xde C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x0000000000001942      0x15a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x0000000000001a9c       0x42 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x0000000000001ade       0x12 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x0000000000001af0       0xf0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000000000001be0       0xf0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x0000000000001cd0      0x10d C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x0000000000001ddd       0x8c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_abbrev  0x0000000000001e69       0xb8 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000001f21      0x1f5 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000002116      0x18f c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000022a5       0x37 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00000000000022dc       0x7f c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000235b       0x9c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000000000023f7       0x90 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000002487      0x21e c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00000000000026a5      0x22e c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000000028d3       0xd9 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000000000029ac       0xa6 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x0000000000000000     0x2bc7
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x72 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000072      0x183 obj/default/nios.o
+ .debug_line    0x00000000000001f5       0x8d C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x0000000000000282       0xa4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000000000000326       0xaa C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_line    0x00000000000003d0      0x137 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000000000000507      0x12f C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x0000000000000636      0x180 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_line    0x00000000000007b6      0x12e C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_line    0x00000000000008e4      0x16a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x0000000000000a4e      0x16a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000000bb8       0xfa C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_line    0x0000000000000cb2       0xa0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x0000000000000d52      0x163 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x0000000000000eb5       0x61 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000000f16       0xf5 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x000000000000100b       0xd0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00000000000010db       0x59 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x0000000000001134       0x59 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x000000000000118d       0x51 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00000000000011de       0x50 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x000000000000122e       0xef C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x000000000000131d       0xdb C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x00000000000013f8      0x130 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x0000000000001528       0x6b C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x0000000000001593       0xaa C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x000000000000163d       0x50 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x000000000000168d      0x12a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x00000000000017b7       0xae C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x0000000000001865       0xfe C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x0000000000001963       0x51 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x00000000000019b4       0xab C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x0000000000001a5f       0xb5 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000000000001b14       0xd1 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x0000000000001be5       0xd5 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x0000000000001cba       0x81 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_line    0x0000000000001d3b       0xe4 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_line    0x0000000000001e1f      0x1f9 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_line    0x0000000000002018      0x15d c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000002175       0x5c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_line    0x00000000000021d1      0x173 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_line    0x0000000000002344      0x182 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000024c6      0x16c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000002632      0x222 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000002854      0x23e c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000002a92       0xc4 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000002b56       0x71 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x0000000000000000      0xb6c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x60 obj/default/nios.o
+ .debug_frame   0x0000000000000060       0x5c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x00000000000000bc       0x2c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x00000000000000e8       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_frame   0x0000000000000120       0x88 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000000000001a8       0xb0 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x0000000000000258       0xa4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_frame   0x00000000000002fc       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_frame   0x0000000000000330       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x0000000000000368       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x00000000000003a0       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_frame   0x00000000000003d4       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x000000000000040c       0x60 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x000000000000046c       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x00000000000004a0       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x00000000000004d4       0x60 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x0000000000000534       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x000000000000056c       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x00000000000005a4       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000000000005dc       0xa4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x0000000000000680       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x00000000000006b8       0x60 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x0000000000000718       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000000000000750       0x84 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x00000000000007d4       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x0000000000000808       0x5c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x0000000000000864       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x0000000000000898       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000000000008d0       0x38 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x0000000000000908       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x000000000000093c       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_frame   0x0000000000000970       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000990       0x28 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000000009b8       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000000009d8       0x30 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000a08       0x20 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000a28       0x38 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000a60       0x54 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000ab4       0x8c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x0000000000000b40       0x2c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x0000000000000000     0x17c3
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x14d obj/default/nios.o
+                                        0x194 (size before relaxing)
+ .debug_str     0x000000000000014d      0x152 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_load.o)
+                                        0x219 (size before relaxing)
+ .debug_str     0x000000000000029f       0x70 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_main.o)
+                                        0x1a4 (size before relaxing)
+ .debug_str     0x000000000000030f       0x27 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_usleep.o)
+                                        0x14f (size before relaxing)
+ .debug_str     0x0000000000000336      0x19b C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x35f (size before relaxing)
+ .debug_str     0x00000000000004d1       0xb9 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                        0x3ab (size before relaxing)
+ .debug_str     0x000000000000058a       0xd1 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                                        0x33f (size before relaxing)
+ .debug_str     0x000000000000065b       0x4a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                                        0x29a (size before relaxing)
+ .debug_str     0x00000000000006a5       0x7f C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                        0x2ef (size before relaxing)
+ .debug_str     0x0000000000000724       0x4a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x2f0 (size before relaxing)
+ .debug_str     0x000000000000076e       0x5f C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                                        0x285 (size before relaxing)
+ .debug_str     0x00000000000007cd       0x42 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                                        0x172 (size before relaxing)
+ .debug_str     0x000000000000080f       0x44 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_close.o)
+                                        0x212 (size before relaxing)
+ .debug_str     0x0000000000000853       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x15c (size before relaxing)
+ .debug_str     0x0000000000000887      0x120 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev.o)
+                                        0x30c (size before relaxing)
+ .debug_str     0x00000000000009a7       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x1d3 (size before relaxing)
+ .debug_str     0x00000000000009db       0x48 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                                         0xe3 (size before relaxing)
+ .debug_str     0x0000000000000a23       0x4c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                                         0xe2 (size before relaxing)
+ .debug_str     0x0000000000000a6f       0x14 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_errno.o)
+                                        0x14c (size before relaxing)
+ .debug_str     0x0000000000000a83       0x34 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x15c (size before relaxing)
+ .debug_str     0x0000000000000ab7       0xc4 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic.o)
+                                        0x245 (size before relaxing)
+ .debug_str     0x0000000000000b7b       0x4c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x1ef (size before relaxing)
+ .debug_str     0x0000000000000bc7       0x56 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                                        0x31d (size before relaxing)
+ .debug_str     0x0000000000000c1d       0x3a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                                        0x19e (size before relaxing)
+ .debug_str     0x0000000000000c57       0x17 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                                        0x14d (size before relaxing)
+ .debug_str     0x0000000000000c6e       0x2f C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_open.o)
+                                        0x252 (size before relaxing)
+ .debug_str     0x0000000000000c9d       0x28 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_release_fd.o)
+                                        0x1e6 (size before relaxing)
+ .debug_str     0x0000000000000cc5       0x4a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_tick.o)
+                                        0x259 (size before relaxing)
+ .debug_str     0x0000000000000d0f       0x3b C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                                        0x163 (size before relaxing)
+ .debug_str     0x0000000000000d4a       0x24 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x0000000000000d6e       0x26 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_find_file.o)
+                                        0x201 (size before relaxing)
+ .debug_str     0x0000000000000d94       0x30 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_get_fd.o)
+                                        0x223 (size before relaxing)
+ .debug_str     0x0000000000000dc4       0x2c C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                                        0x162 (size before relaxing)
+ .debug_str     0x0000000000000df0      0x160 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+                                        0x1f9 (size before relaxing)
+ .debug_str     0x0000000000000f50      0x3ba c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+                                        0x596 (size before relaxing)
+ .debug_str     0x000000000000130a       0xc8 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-impure.o)
+                                        0x58d (size before relaxing)
+ .debug_str     0x00000000000013d2       0x3c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                                        0x1b5 (size before relaxing)
+ .debug_str     0x000000000000140e       0xcc c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                                        0x1bc (size before relaxing)
+ .debug_str     0x00000000000014da       0x68 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                                        0x1e3 (size before relaxing)
+ .debug_str     0x0000000000001542       0x4e c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+                                        0x1cf (size before relaxing)
+ .debug_str     0x0000000000001590       0x3c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                                        0x5d5 (size before relaxing)
+ .debug_str     0x00000000000015cc       0x62 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                                        0x5ba (size before relaxing)
+ .debug_str     0x000000000000162e      0x16b c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+                                        0x1b6 (size before relaxing)
+ .debug_str     0x0000000000001799       0x2a C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exit.o)
+                                        0x158 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x9f7
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x2c c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_loc     0x000000000000002c       0x1e c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_loc     0x000000000000004a      0x126 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000000170      0x2a2 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x0000000000000412       0x47 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000459      0x185 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_loc     0x00000000000005de      0x1a6 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000784      0x273 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2\libgcc.a(lib2-divmod.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x60
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x30 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x0000000000000030       0x30 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000008000000                __alt_data_end = 0x8000000
+                0x0000000008000000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x00000000040055c0                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x00000000040055c0                PROVIDE (__alt_heap_start, end)
+                0x0000000008000000                PROVIDE (__alt_heap_limit, 0x8000000)
+OUTPUT(DE1-SoC_demo_nios.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000      0x110
+ .debug_ranges  0x0000000000000000       0x20 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x28 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x0000000000000048       0x10 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x0000000000000058       0x30 C:/repos/quartus_proj/BM-CycloneV-DE1_SoC/DE1_SoC_demo/sw/nios/application/DE1-SoC_demo_nios_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x0000000000000088       0x10 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_ranges  0x0000000000000098       0x10 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_ranges  0x00000000000000a8       0x10 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_ranges  0x00000000000000b8       0x10 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_ranges  0x00000000000000c8       0x10 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_ranges  0x00000000000000d8       0x10 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_ranges  0x00000000000000e8       0x28 c:/altera_lite/15.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-mingw32/nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
